@@ -1,0 +1,8 @@
+C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\x64\Debug\Splines_CLR_lab1.vcxproj.AssemblyReference.cache
+C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\x64\Debug\Splines_CLR_lab1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\x64\Debug\SplinesCLRlab1.MyForm.resources
+C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\x64\Debug\Splines_CLR_lab1.vcxproj.GenerateResource.cache
+C:\Users\79960\source\repos\GitSpl\Splines_CLR\Splines_CLR_lab1\Splines_CLR_lab1\x64\Debug\Splines_CLR_lab1.vcxproj.AssemblyReference.cache
+C:\Users\79960\source\repos\GitSpl\Splines_CLR\Splines_CLR_lab1\Splines_CLR_lab1\x64\Debug\Splines_CLR_lab1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\79960\source\repos\GitSpl\Splines_CLR\Splines_CLR_lab1\Splines_CLR_lab1\x64\Debug\SplinesCLRlab1.MyForm.resources
+C:\Users\79960\source\repos\GitSpl\Splines_CLR\Splines_CLR_lab1\Splines_CLR_lab1\x64\Debug\Splines_CLR_lab1.vcxproj.GenerateResource.cache
