@@ -1,41 +1,48 @@
 ﻿  MyForm.cpp
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(108,6): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(108,9): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(137,4): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(144,4): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(151,4): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(164,4): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(165,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(10,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(70,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(72,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(74,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(129,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(129,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(129,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(139,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(139,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(139,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(188,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(190,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(192,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(245,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(245,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(245,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(255,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(255,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(255,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(307,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(309,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(311,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(364,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(364,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(364,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(374,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(374,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(374,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(47): warning C4715: f_test_2: значение возвращается не при всех путях выполнения
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(31): warning C4715: f_test: значение возвращается не при всех путях выполнения
-C:\Users\79960\source\repos\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(39): warning C4715: f_test_1: значение возвращается не при всех путях выполнения
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(97,6): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(97,9): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(105,13): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(106,13): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(107,13): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(108,13): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(109,13): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(110,13): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(111,13): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(133,4): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(140,4): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(147,4): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(160,4): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(161,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(10,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(70,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(72,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(74,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(129,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(129,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(129,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(139,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(139,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(139,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(188,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(190,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(192,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(245,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(245,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(245,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(255,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(255,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(255,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(307,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(309,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(311,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(364,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(364,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(364,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(374,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(374,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\MyForm.cpp(374,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(44): warning C4715: f_test_2: значение возвращается не при всех путях выполнения
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(28): warning C4715: f_test: значение возвращается не при всех путях выполнения
+C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\Splines_CLR_lab1\solution.h(36): warning C4715: f_test_1: значение возвращается не при всех путях выполнения
   MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  Splines_CLR_lab1.vcxproj -> C:\Users\79960\source\repos\Splines_CLR_lab1\x64\Debug\Splines_CLR_lab1.exe
+  Splines_CLR_lab1.vcxproj -> C:\Users\79960\Splines_CLR_form\Splines_CLR_lab1\x64\Debug\Splines_CLR_lab1.exe

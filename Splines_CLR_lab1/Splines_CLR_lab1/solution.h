@@ -15,6 +15,7 @@ std::vector<double> c;
 std::vector<double> a;
 std::vector<double> b;
 std::vector<double> d;
+
 std::vector<std::vector<double>> Spl;
 
 double f_test(double x) {
@@ -101,15 +102,13 @@ void creation() {
 		Spl[i][i + 1] = h;
 	}
 	
-	for (int i = 0; i < n + 1; i++) {
-		F.push_back(0);
-		A.push_back(0);
-		B.push_back(0);
-		c.push_back(0);
-		a.push_back(0);
-		b.push_back(0);
-		d.push_back(0);
-	}
+	F.resize(n + 1, 0);
+	A.resize(n + 1, 0);
+	B.resize(n + 1, 0);
+	c.resize(n + 1, 0);
+	a.resize(n + 1, 0);
+	b.resize(n + 1, 0);
+	d.resize(n + 1, 0);
 }
 void clear() {
 	F.clear();
